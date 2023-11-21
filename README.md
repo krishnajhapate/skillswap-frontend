@@ -25,7 +25,7 @@ Don't forget, engagement with the community is very important to learn any skill
 
 ## The Solution
 
-Learn Bloom is a website where you can find top-rated tech videos and tutorials in the form of a course.
+Skill Swap is a website where you can find top-rated tech videos and tutorials in the form of a course.
 
 This is how we solve this problem for our fellow developers who are learning to code.
 
@@ -41,7 +41,7 @@ This is how we solve this problem for our fellow developers who are learning to 
 
 In other words,
 
-Learn Bloom helps you sail through the endless ocean of tech resources on YouTube.
+Skill Swap helps you sail through the endless ocean of tech resources on YouTube.
 
 <div align="center">
   
@@ -103,7 +103,7 @@ yarn dev
 
 ## Contributing
 
-Learn Bloom is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed in the [issues](https://github.com/mukulrajpoot262610/learnbloom-frontend-hackathon/issues) tab if any.
+Skill Swap is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed in the [issues](https://github.com/mukulrajpoot262610/learnbloom-frontend-hackathon/issues) tab if any.
 
 Feel free to make feature requests. Easy bugs and features will be tagged with the `good first issue` label.
 
@@ -122,4 +122,5 @@ This project is open source and available under the [MIT License](https://github
 <!-- The project is deployed on [Linode](https://www.linode.com) for the [Hashnode X Linode Hackathon](https://townhall.hashnode.com/build-with-linode-hackathon-june-2022?source=hashnode_countdown). -->
 
 ![mYWGJOj8V](https://user-images.githubusercontent.com/73209159/176347320-11f68c2d-d169-4191-82e4-56c305b7d3dd.png)
+
 # minor-frontend

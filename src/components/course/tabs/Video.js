@@ -19,7 +19,7 @@ const Video = ({ course }) => {
 
             <section className="my-4 text-accent-content">
                 <p className="font-bold">Introduction</p>
-                <p className="text-sm mt-1">Learn Bloom is a website where you can find top-rated tech videos and tutorials in the form of a course.</p>
+                <p className="text-sm mt-1">Skill Swap is a website where you can find top-rated tech videos and tutorials in the form of a course.</p>
                 <p className="text-sm mt-3">
                     This is how we solve this problem for our fellow developers who are learning to code.</p>
 
@@ -33,7 +33,7 @@ const Video = ({ course }) => {
                 <p className="text-sm mt-3">
                     In other words,
 
-                    Learn Bloom helps you sail through the endless ocean of tech resources on YouTube. </p>
+                    Skill Swap helps you sail through the endless ocean of tech resources on YouTube. </p>
             </section>
 
         </div>

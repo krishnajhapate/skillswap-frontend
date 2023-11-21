@@ -19,7 +19,7 @@ const Features = () => {
             </div>
             <div className="pt-4 bg-white collapse-content peer-checked:bg-blue-100">
               <p>
-                You can discuss your doubts in real-time on Learn Bloom. So, no
+                You can discuss your doubts in real-time on Skill Swap. So, no
                 stopping after you encounter an error while following a
                 tutorial. You can even post code snippets in the discussions as
                 it is markdown supported.

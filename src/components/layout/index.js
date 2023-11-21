@@ -37,22 +37,22 @@ const Layout = ({ children }) => {
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
-        <title>Learn Bloom - Track your YouTube Learning</title>
-        <meta name="title" content="Learn Bloom - Track your YouTube Learning" />
+        <title>Skill Swap - Track your YouTube Learning</title>
+        <meta name="title" content="Skill Swap - Track your YouTube Learning" />
         <meta
           name="description"
-          content="Learn Bloom provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
+          content="Skill Swap provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
         />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.learnbloom.tech/" />
         <meta
           property="og:title"
-          content="Learn Bloom - Track your YouTube Learning"
+          content="Skill Swap - Track your YouTube Learning"
         />
         <meta
           property="og:description"
-          content="Learn Bloom provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
+          content="Skill Swap provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
         />
         <meta
           property="og:image"
@@ -63,11 +63,11 @@ const Layout = ({ children }) => {
         <meta property="twitter:url" content="https://www.learnbloom.tech/" />
         <meta
           property="twitter:title"
-          content="Learn Bloom - Track your YouTube Learning"
+          content="Skill Swap - Track your YouTube Learning"
         />
         <meta
           property="twitter:description"
-          content="Learn Bloom provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
+          content="Skill Swap provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
         />
         <meta
           property="twitter:image"

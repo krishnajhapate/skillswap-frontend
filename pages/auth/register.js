@@ -44,11 +44,11 @@ const Register = () => {
             className="object-contain w-24 h-12"
           />
           <h1 className="text-3xl font-bold tracking-tight text-center uppercase cursor-pointer">
-            Welcome to <span className="text-blue-500">Learn</span>Bloom
+            Welcome to <span className="text-blue-500">Skill</span>Swap
           </h1>
         </a>
         <p className="mb-4 text-xs text-center">
-          Join Learn Bloom for Free and explore the new learing experience
+          Join Skill Swap for Free and explore the new learing experience
         </p>
 
         <form onSubmit={handleSubmit(onSubmit)}>

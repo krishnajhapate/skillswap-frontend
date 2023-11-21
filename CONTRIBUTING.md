@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Learn Bloom is an open source project, and contributions of any kind are welcome and appreciated. Feel free to open bug tickets and make feature requests. Easy bugs and features will be tagged with the `good first issue` label.
+Skill Swap is an open source project, and contributions of any kind are welcome and appreciated. Feel free to open bug tickets and make feature requests. Easy bugs and features will be tagged with the `good first issue` label.
 
 ## Issues
 
@@ -8,7 +8,7 @@ If you encounter a bug, please file a bug report. If you have a feature to reque
 
 ## Pull Requests
 
-In order to create a pull request for Learn Bloom, follow the GitHub instructions for [Creating a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). Please link your pull request to an existing issue.
+In order to create a pull request for Skill Swap, follow the GitHub instructions for [Creating a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). Please link your pull request to an existing issue.
 
 ## Folder Structure
 
@@ -53,9 +53,9 @@ Description of the project files and directories.
 
 An explanation of the `package.json` scripts.
 
-| Command | Description                                  |
-| ------- | -------------------------------------------- |
-| `dev`   | Run Learn Bloom in a development environment |
-| `build` | Create a production build of Learn Bloom     |
-| `start` | Start a Learn Bloom in production            |
-| `lint`  | Setup ESLint to catch errors                 |
+| Command | Description                                 |
+| ------- | ------------------------------------------- |
+| `dev`   | Run Skill Swap in a development environment |
+| `build` | Create a production build of Skill Swap     |
+| `start` | Start a Skill Swap in production            |
+| `lint`  | Setup ESLint to catch errors                |

@@ -7,11 +7,11 @@ const Footer = () => {
         <a className="flex items-center justify-center font-medium title-font md:justify-start">
           <img alt="logo" src="/logo.png" className="object-contain w-12 h-6" />
           <h1 className="hidden ml-2 font-bold tracking-tight uppercase cursor-pointer  lg:block">
-            <span className="text-3xl text-blue-500">Learn</span>Bloom
+            <span className="text-3xl text-blue-500">Skill</span>Swap
           </h1>
         </a>
         <p className="mt-4 text-sm text-center text-gray-700 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0">
-          © 2023 Learn Bloom —
+          © 2023 Skill Swap —
           Made with ❤️
           {/* <a
             href="https://github.com/mukulrajpoot262610"

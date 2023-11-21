@@ -12,7 +12,7 @@ const Header = () => {
           </span>
         </h1>
         <p className="z-20 max-w-xl mt-2 text-sm text-gray-400 md:text-lg">
-          Learn Bloom provides hand-picked YouTube courses, real-time discussions,
+          Skill Swap provides hand-picked YouTube courses, real-time discussions,
           sharing projects, and getting feedback on them. We believe in{" "}
           <span className="font-bold text-blue-500">Build-in public</span> and{" "}
           <span className="font-bold text-blue-500">Proof of Work</span>.
