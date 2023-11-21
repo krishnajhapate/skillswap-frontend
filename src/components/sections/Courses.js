@@ -5,7 +5,7 @@ import CourseCard from "components/common/CourseCard";
 const COURSES = [
   {
     id: 0,
-    _id: "62bb37317bbb60feb01b4bd4",
+    _id: "655c589ea5baeaebaa289a44",
     name: "Build A Whatsapp Clone With MERN Stack",
     channel: "Clever Programmer",
     description:
@@ -19,7 +19,7 @@ const COURSES = [
   },
   {
     id: 1,
-    _id: "62bb3ec97bbb60feb01b4cb0",
+    _id: "655c597ba5baeaebaa289a52",
     name: "2022 Flutter Master Class Travel App | Tutorial for Beginners to Advanced | iOS & Android App",
     channel: "dbestech",
     description:
@@ -32,7 +32,7 @@ const COURSES = [
   },
   {
     id: 2,
-    _id: "62bb40d87bbb60feb01b4d30",
+    _id: "655c5a44a5baeaebaa289a61",
     name: "File sharing app with deployment in Node Js, Express Js, Mongo DB in Hindi in 2020",
     channel: "Coder's Gyan",
     description:
